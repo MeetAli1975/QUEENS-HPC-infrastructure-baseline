@@ -1,0 +1,25 @@
+# Authentication material
+*.pem
+*.key
+*.p12
+*.pfx
+munge.key
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Runtime data
+*.log
+*.pid
+*.out
+slurm-*.out
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store

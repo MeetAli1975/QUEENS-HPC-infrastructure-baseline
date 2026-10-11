@@ -1,0 +1,1 @@
+/shared 192.168.250.11(rw,sync,root_squash) 192.168.250.12(rw,sync,root_squash)
